@@ -75,12 +75,6 @@ Modern take on classic Snake with a **3D-inspired UI**, **mobile controls**, and
 
 ---
 
-## 📈 GitHub Stats (optional)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chakreshdoddi&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chakreshdoddi&layout=compact)
-
----
-
 ## 📬 Contact
 - Portfolio: https://www.chakreshdoddi.com  
 - LinkedIn: https://www.linkedin.com/in/chakresh-doddi  
