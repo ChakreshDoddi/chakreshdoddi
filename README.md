@@ -34,7 +34,7 @@
 
 ---
 
-## ⭐ Featured Projects (start here)
+## ⭐ Featured Projects
 
 ### 1) StayEase — Full-Stack PG/Hostel Booking & Management
 **What it is:** accommodation platform where users can discover stays and **book a specific bed** (beds are the source of truth).  
@@ -49,7 +49,7 @@ Modern take on classic Snake with a **3D-inspired UI**, **mobile controls**, and
 
 ---
 
-## 🧰 Toolbox (recruiter keywords)
+## 🧰 Toolbox 
 - **Backend:** Java (8–17), Spring Boot, Spring Cloud, REST APIs, JPA/Hibernate, Microservices  
 - **Frontend:** React, TypeScript, JavaScript (ES6+), Bootstrap/Tailwind  
 - **Databases:** MySQL, PostgreSQL, Oracle, MongoDB, DynamoDB  
@@ -69,7 +69,7 @@ Modern take on classic Snake with a **3D-inspired UI**, **mobile controls**, and
 ---
 
 ## 🔭 What I’m working on / learning
-- Building 2–3 new recruiter-grade projects (by EOD)
+- Building new projects (Exciting)
 - Better system design + clean API contracts
 - Stronger testing + API docs (Swagger/OpenAPI)
 
